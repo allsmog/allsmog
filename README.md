@@ -48,6 +48,12 @@ security data into defensible next actions.
 - [randori-plugin](https://github.com/allsmog/randori-plugin) - PASTA threat modeling with STRIDE, MITRE ATT&CK, CAPEC, DFDs, and attack trees.
 - [shinsa-plugin](https://github.com/allsmog/shinsa-plugin) - AI-first ISO 27001, SOC 2, NIST, PCI DSS, and GRC assessment plugin for Claude Code.
 
+## Research infrastructure
+
+- [oxidized-joern](https://github.com/allsmog/oxidized-joern) - Rust-first Joern fork exploring code-property-graph frontends and security-analysis components.
+- [klee-ng](https://github.com/allsmog/klee-ng) - KLEE symbolic-execution fork for program analysis, test generation, and vulnerability-research workflows.
+- [ligolo-ng-relay](https://github.com/allsmog/ligolo-ng-relay) - Ligolo-ng relay fork for TUN-based tunneling, pivoting, and authorized network-assessment workflows.
+
 ## What this portfolio says
 
 - I build end-to-end security products, not just scripts.
@@ -61,5 +67,6 @@ security research, AppSec, AI security, MCP security, Model Context Protocol,
 agentic SAST, vulnerability scanning, malware analysis, malware sandbox,
 memory forensics, Volatility3, DFIR, OSINT, threat intelligence, deception,
 honeypots, supply-chain security, reverse engineering, Neo4j, CodeQL, Joern,
-Semgrep, prompt injection, LLM security, applied cryptography, DPoP,
-zero-knowledge authentication.
+code-property graphs, KLEE, symbolic execution, Semgrep, prompt injection,
+LLM security, applied cryptography, DPoP, zero-knowledge authentication,
+tunneling, pivoting, Ligolo-ng.
