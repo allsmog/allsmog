@@ -4,6 +4,8 @@ Security researcher building practical security systems across AppSec,
 AI/MCP security, DFIR, malware analysis, OSINT, deception, reverse engineering,
 and applied cryptography.
 
+Portfolio and project docs: [allsmog.github.io](https://allsmog.github.io)
+
 My best work is not just scanners. I build operator tools that preserve
 evidence, run locally when possible, expose clear proof state, and turn noisy
 security data into defensible next actions.
